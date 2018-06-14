@@ -14,9 +14,9 @@ The content in this guide is appropriate for use by (but not strictly limited to
 <br />
 Use the following sections to operationalize your Azure Workload migrations:
 
-  - [Monitoring Your Workloads](1.0-Monitoring-your-Workloads.md): Use the guidance and procedures in this section to use the tools to manage your workloads.
+  - [Monitoring Your Workloads]https://github.com/alvarovitta/Operationalizing-Workloads/blob/master/2.0-Monitoring-your-Workloads.md): Use the guidance and procedures in this section to use the tools to manage your workloads.
 
 
 ## Next steps
 
-[Monitoring Your Workloads](1.0-Monitoring-your-Workloads.md)
+[Monitoring Your Workloads](https://github.com/alvarovitta/Operationalizing-Workloads/blob/master/2.0-Monitoring-your-Workloads.md)
