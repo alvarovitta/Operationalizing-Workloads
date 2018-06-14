@@ -21,4 +21,4 @@ Use the following sections to operationalize your Azure Workload migrations:
 
 ## Next steps
 
-[Monitoring Your Workloads](1.1-Monitoring-your-Workloads.md
+[Monitoring Your Workloads](1.1-Monitoring-your-Workloads.md)
